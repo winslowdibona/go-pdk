@@ -18,19 +18,19 @@ package pdk
 import (
 	"net"
 
-	"github.com/Kong/go-pdk/bridge"
-	"github.com/Kong/go-pdk/client"
-	"github.com/Kong/go-pdk/ctx"
-	"github.com/Kong/go-pdk/ip"
-	"github.com/Kong/go-pdk/log"
-	"github.com/Kong/go-pdk/nginx"
-	"github.com/Kong/go-pdk/node"
-	"github.com/Kong/go-pdk/request"
-	"github.com/Kong/go-pdk/response"
-	"github.com/Kong/go-pdk/router"
-	"github.com/Kong/go-pdk/service"
-	service_request "github.com/Kong/go-pdk/service/request"
-	service_response "github.com/Kong/go-pdk/service/response"
+	"github.com/winslowdibona/go-pdk/bridge"
+	"github.com/winslowdibona/go-pdk/client"
+	"github.com/winslowdibona/go-pdk/ctx"
+	"github.com/winslowdibona/go-pdk/ip"
+	"github.com/winslowdibona/go-pdk/log"
+	"github.com/winslowdibona/go-pdk/nginx"
+	"github.com/winslowdibona/go-pdk/node"
+	"github.com/winslowdibona/go-pdk/request"
+	"github.com/winslowdibona/go-pdk/response"
+	"github.com/winslowdibona/go-pdk/router"
+	"github.com/winslowdibona/go-pdk/service"
+	service_request "github.com/winslowdibona/go-pdk/service/request"
+	service_response "github.com/winslowdibona/go-pdk/service/response"
 )
 
 // PDK go pdk module
